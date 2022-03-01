@@ -12,9 +12,4 @@ RAID = [
 
 RiZoeLX = [1517994352, 2086101519, 136817688]
 
-REPLYRAID = [
-    "MADARCHOD",
-    "
-]
-
 
